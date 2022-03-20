@@ -4,18 +4,21 @@
 📍 Moro em Juiz de Fora, faço Análise e Desenvolvimento de Sistemas EAD, estudo de forma autodidata nas seguintes plataformas:
 <ul>
     <li>
-    <a href="https://b7web.com.br/fullstack/" alt="B7web">B7web</a>
+    <a href="https://b7web.com.br/fullstack" alt="B7web">B7web</a>
     </li>
     <li>
     <a href="https://cursos.alura.com.br/user/vivianesilvarc" alt="alura">Alura</a>
     </li>
     <li>
-    <a href="https://www.origamid.com/" alt="origamid">Origamid</a>
+    <a href="https://www.origamid.com" alt="origamid">Origamid</a>
     </li>
     <a href="https://www.udemy.com" alt="udemy">Udemy</a>
     </li>
     <li>
-    <a href="https://www.digitalhouse.com/br/" alt="udemy">Digital House</a>
+    <a href="https://www.digitalhouse.com/br" alt="Digital House">Digital House</a>
+    </li>
+    <li>
+    <a href="https://devsuperior.com.br/cursos" alt="Devsuperior">Digital House</a>
     </li>
 </ul>
 </p>
@@ -43,6 +46,15 @@
 ![zztsilva GitHub stats](https://github-readme-stats.vercel.app/api?username=zztsilva&show_icons=true&theme=radical)
 
 <img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
+
+
+<h2>Créditos: Rafaella Ballerini</h2>
+<a href="https://www.youtube.com/watch?v=TsaLQAetPLU">
+</a>
+
+
+
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=TsaLQAetPLU)
 
 
 <h2>Créditos: Rafaella Ballerini</h2>
