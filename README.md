@@ -13,7 +13,7 @@
     <a href="https://www.origamid.com" alt="origamid">Origamid</a>
     </li>
     <a href="https://www.udemy.com" alt="udemy">Udemy</a>
-    </li>
+    </li><br>
     <a href="https://devsuperior.com.br/cursos" alt="Devsuperior">Devsuperior</a>
     </li>
 </ul>
