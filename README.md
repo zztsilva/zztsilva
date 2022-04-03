@@ -1,7 +1,9 @@
 ##  👑 Olá eu sou a Viviane Silva 😊👋🏻
 
-<p> 🎯✨Atualmente estou 🎓👩🏻‍💻 estudando Desenvolvimento Web, perfil em construção.🛠⚙️
-📍 Moro em Juiz de Fora, faço Análise e Desenvolvimento de Sistemas EAD, estudo de forma autodidata nas seguintes plataformas:
+<p> 🎯✨Atualmente estou 🎓👩🏻‍💻 estudando Desenvolvimento Web Full Stack <br>perfil em construção.🛠⚙️<br>
+    📍Juiz de Fora / MG <br>
+    Graduanda em Análise e Desenvolvimento de Sistemas<br>
+    Plataformas de estudos:
 <ul>
     <li>
     <a href="https://b7web.com.br/fullstack" alt="B7web">B7web</a>
@@ -12,13 +14,15 @@
     <li>
     <a href="https://www.origamid.com" alt="origamid">Origamid</a>
     </li>
+    <li>
     <a href="https://www.udemy.com" alt="udemy">Udemy</a>
-    </li><br>
+    </li>
+    <li>
     <a href="https://devsuperior.com.br/cursos" alt="Devsuperior">Devsuperior</a>
     </li>
 </ul>
 </p>
-
+<img aling="right" height="590em" src="https://raw.githubusercontent.com/gist/zztsilva/461df52a1581a1d7bac6fbf0ee8e0aa7/raw/41e728925b9685955ca7527c40535f2d48f72edd/githubcard.svg">
 
 <h2>Minhas redes sociais</h2>
 
