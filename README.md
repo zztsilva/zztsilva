@@ -14,10 +14,6 @@
     </li>
     <a href="https://www.udemy.com" alt="udemy">Udemy</a>
     </li>
-    <li>
-    <a href="https://www.digitalhouse.com/br" alt="Digital House">Digital House</a>
-    </li>
-    <li>
     <a href="https://devsuperior.com.br/cursos" alt="Devsuperior">Devsuperior</a>
     </li>
 </ul>
